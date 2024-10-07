@@ -1,5 +1,8 @@
 # PDF merger/splitter
 
+## Dependencies
+pip install PyPDF2
+
 ## Merge command
 
 py main.py merge<br>
